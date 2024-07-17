@@ -1,0 +1,38 @@
+[
+    {
+        "id": 123,
+        "title": "Major political events",
+        "content": "The UK has voted in a new government",
+        "tags": [
+            {"type": "politics", "value": "POL", "threshold": 2},
+            {"type": "government", "value": "POL", "threshold": 1}
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Tech Advances in 2023",
+        "content": "Latest trends in GenAI",
+        "tags": [
+            {"type": "technology", "value": "VOD.L", "threshold": 5},
+            {"type": "innovation", "value": "VOD.L", "threshold": 3}
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Advances in ML & GenAI in 2024",
+        "content": "Latest trends in AI technology...",
+        "tags": [
+            {"type": "technology", "value": 4, "threshold": 2},
+            {"type": "innovation", "value": 3, "threshold": 1}
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Health Tips for 2023",
+        "content": "Best practices for a healthy life...",
+        "tags": [
+            {"type": "health", "value": 6, "threshold": 5},
+            {"type": "fitness", "value": 4, "threshold": 3}
+        ]
+    }
+]

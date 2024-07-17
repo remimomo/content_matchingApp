@@ -1,0 +1,30 @@
+[
+    {
+        "name": "John Dow",
+        "interests": [
+            {"type": "instrument", "value": "VOD.L", "threshold": 0.5},
+            {"type": "country", "value": "UK", "threshold": 0.24}
+        ]
+    },
+    {
+        "name": "Mel Crawford",
+        "interests": [
+            {"type": "technology", "value": "VOD.L", "threshold": 4},
+            {"type": "country", "value": "US", "threshold": 2}
+        ]
+    },
+    {
+        "name": "Alice Fitzpatrick",
+        "interests": [
+            {"type": "technology", "value": 5, "threshold": 3},
+            {"type": "health", "value": 7, "threshold": 5}
+        ]
+    },
+    {
+        "name": "Bob Dylan",
+        "interests": [
+            {"type": "sports", "value": 6, "threshold": 4},
+            {"type": "technology", "value": 4, "threshold": 2}
+        ]
+    }
+]
